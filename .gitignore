@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Microsoft Dynamics
+# Strong Name Key contains a key pair used to sign assemblies with a strong name. 
+*.snk
